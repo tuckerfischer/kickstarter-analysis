@@ -12,13 +12,13 @@ Purpose
 
 Analysis of Outcomes Based on Launch Date
 
+![image](https://user-images.githubusercontent.com/78890771/111091498-1ba21280-8501-11eb-846f-06225ad402de.png)
 -Based off of the the 'Theater Outcomes Based on Launch Date' graph the best time Frame to launch a kickstarter is May. However, this is also one of the peak times for a kickstarter to fail. Further analysis should be done to see if the number of successful kickstarters in May is statistically significant compared to the other months in the year. 
 
 Analysis of Outcomes Based on Goals
 
--The percentage of successful kickstarters that were successful was greatest when the goal was less than $1,000 dollars and was the least successful when the kickstarter had a goal from $45,000-$49,999. This could be because smaller goals are easier to achieve or it could be that the larger goals were for plays that the general population did not appreciate. 
-
 ![image](https://user-images.githubusercontent.com/78890771/111091456-fa412680-8500-11eb-81cf-283b56eced38.png)
+-The percentage of successful kickstarters that were successful was greatest when the goal was less than $1,000 dollars and was the least successful when the kickstarter had a goal from $45,000-$49,999. This could be because smaller goals are easier to achieve or it could be that the larger goals were for plays that the general population did not appreciate. 
 
 Challenges and Difficulties Encountered
 
