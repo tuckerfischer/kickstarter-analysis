@@ -18,6 +18,7 @@ Analysis of Outcomes Based on Goals
 
 -The percentage of successful kickstarters that were successful was greatest when the goal was less than $1,000 dollars and was the least successful when the kickstarter had a goal from $45,000-$49,999. This could be because smaller goals are easier to achieve or it could be that the larger goals were for plays that the general population did not appreciate. 
 
+![image](https://user-images.githubusercontent.com/78890771/111091456-fa412680-8500-11eb-81cf-283b56eced38.png)
 
 Challenges and Difficulties Encountered
 
